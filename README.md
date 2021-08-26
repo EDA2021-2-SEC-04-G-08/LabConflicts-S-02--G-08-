@@ -1,6 +1,6 @@
-Estudiante 1: Juana María Morales
+Estudiante 1: Juana María Morales / jm.moralesr1
 
-Estudiante 2: Mateo López
+Estudiante 2: Mateo López / m.lopez24
 
 #ISIS1225 - Estructura de un proyecto
 
